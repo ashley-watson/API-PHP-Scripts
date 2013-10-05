@@ -75,5 +75,4 @@ echo "Broadcast IP: " . $pbro . "\n\r";
 echo "Subnet Mask: " . $pmask . "\n\r";
 echo "--------------------------------------------------------------------------------------------\n\r";
 }
-# (code to underline text) fwrite ( STDOUT, "\033[4m" . "Underlined Text" . PHP_EOL);
 ?>
