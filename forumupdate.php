@@ -1,6 +1,7 @@
 <?php
 
 // api.php needs to have apiUsername, apiKey, and the path to the SLApi file that used to be in this script.
+// Credits to Ryan Hanson
 
 require_once('api.php');
 
